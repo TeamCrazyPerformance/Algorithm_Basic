@@ -47,7 +47,7 @@
 ## 진행 상황(예시)
 |  | 최승훈 👑 | 박동혁 👑| 
 | :---: | :---: | :---: |
-| GitHub | [cshooon](https://github.com/cshooon) | [Park](https://github.com) |
+| GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
 | Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | Week 01</br>(Array & List & Time Complexity) | ✅ | ✅ | 
 | Week 02</br>(Stack & Queue) | ✅ | ❌ |
