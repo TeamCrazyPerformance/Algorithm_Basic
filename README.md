@@ -46,10 +46,10 @@
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
 ## 진행 상황(예시)
-|  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 | 김경환 | 김다은 | 김영진 | 이유진 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 |
+| :---: | :---: | :---: | :---: | :---: | :---:|
 | GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
-| Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>Time Complexity) | 
 | Week 02</br>(Stack</br>Queue) | 
 | Week 03</br>(Brute Force</br>Binary Search) |  
@@ -59,6 +59,22 @@
 | Week 07</br>(Sort) |  
 | Week 08</br>(DFS) | 
 | Week 09</br>(BFS) | 
+
+
+| | 김경환 | 김다은 | 김영진 | 이유진 |
+| :---: | :---: | :---: | :---: | :---:|
+| Github |
+| Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>Time Complexity) | 
+| Week 02</br>(Stack</br>Queue) | 
+| Week 03</br>(Brute Force</br>Binary Search) |  
+| Week 04</br>(Divide and</br>Conquer) | 
+| Week 05</br>(Greedy) | 
+| Week 06</br>(DP) |  
+| Week 07</br>(Sort) |  
+| Week 08</br>(DFS) | 
+| Week 09</br>(BFS) | 
+
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
