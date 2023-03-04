@@ -50,10 +50,10 @@
 | :---: | :---: | :---: |
 | GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
 | Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
-| Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList) & Time Complexity) | ✅ | ✅ | 
+| Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>Time Complexity) | ✅ | ✅ | 
 | Week 02</br>(Stack & Queue) | ✅ | ❌ |
-| Week 03</br>(Brute Force & Binary Search) | ✅ | ❌ | 
-| Week 04</br>(Divide and conquer) | ✅ | ❌ | 
+| Week 03</br>(Brute Force</br>Binary Search) | ✅ | ❌ | 
+| Week 04</br>(Divide and</br>Conquer) | ✅ | ❌ | 
 | Week 05</br>(Greedy) | ✅ | 2️⃣ | 
 | Week 06</br>(DP) | ✅ | ❌ | 
 | Week 07</br>(Sort) | ✅ | ❌ | 
