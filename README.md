@@ -51,8 +51,8 @@
 | GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
 | Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>Time Complexity) | 
-| Week 02</br>(Stack</br>Queue) | 
-| Week 03</br>(Brute Force</br>Binary Search) |  
+| Week 02</br>(Stack &</br>Queue) | 
+| Week 03</br>(Brute Force & </br>Binary Search) |  
 | Week 04</br>(Divide and</br>Conquer) | 
 | Week 05</br>(Greedy) | 
 | Week 06</br>(DP) |  
@@ -66,8 +66,8 @@
 | Github |
 | Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | Week 01</br>([Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>Time Complexity) | 
-| Week 02</br>(Stack</br>Queue) | 
-| Week 03</br>(Brute Force</br>Binary Search) |  
+| Week 02</br>(Stack &</br>Queue) | 
+| Week 03</br>(Brute Force &</br>Binary Search) |  
 | Week 04</br>(Divide and</br>Conquer) | 
 | Week 05</br>(Greedy) | 
 | Week 06</br>(DP) |  
