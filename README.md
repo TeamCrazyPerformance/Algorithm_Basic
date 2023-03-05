@@ -1,3 +1,6 @@
+.1 table{
+  width: 60
+}
 # Algorithm-basic
 > TCP 알고리즘 기초 스터디입니다. 
 - 기간: 2023년 1학기
@@ -46,7 +49,7 @@
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
 ## 진행 상황(예시)
-<div style="width=300">
+<div class="1">
 |  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 |
 | :---: | :---: | :---: | :---: | :---: | :---:|
 | GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
