@@ -46,6 +46,7 @@
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
 ## 진행 상황(예시)
+<div style="width=300">
 |  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 |
 | :---: | :---: | :---: | :---: | :---: | :---:|
 | GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
@@ -59,7 +60,7 @@
 | Week 07</br>(Sort) |  
 | Week 08</br>(DFS) | 
 | Week 09</br>(BFS) | 
-
+<\div>
 
 | | 김경환 | 김다은 | 김영진 | 이유진 |
 | :---: | :---: | :---: | :---: | :---:|
