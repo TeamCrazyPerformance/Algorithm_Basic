@@ -1,6 +1,3 @@
-img {
-  width: 40
-}
 # Algorithm-basic
 > TCP 알고리즘 기초 스터디입니다. 
 - 기간: 2023년 1학기
