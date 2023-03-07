@@ -1,4 +1,4 @@
-# Algorithm-basic
+# Algorithm_Basic
 > TCP 알고리즘 기초 스터디입니다. 
 - 기간: 2023년 1학기
 - 정기 회의: 오후 6시
