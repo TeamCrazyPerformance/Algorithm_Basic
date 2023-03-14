@@ -27,21 +27,21 @@
   
  **Commit Message**
  
- - 백준_문제번호 ID - Add 1st Solution
+ - add: 문제번호
 
-   > Ex) Baekjoon_1874 hoonwin02 - Add 2nd Solution
+   > Ex) add: 1234
 
    - 문제의 n번째 솔루션 코드를 추가했을 때의 커밋 메시지 예시입니다.
    
- - 백준_문제번호 ID - Refactor 1st Solution
+ - refactor: 문제번호
 
-   > Ex) Baekjoon_1874 hoonwin02 - Refactor 3rd Solution
+   > Ex) refactor: 1234
    
    - 문제의 n번째 솔루션 코드를 리팩토링했을 때의 커밋 메시지 예시입니다.
    
-- 백준_문제번호 ID - Fix 1st Solution
+- fix: 문제번호
 
-   > Ex) Baekjoon_1874 hoonwin02 - Fix 4th Solution
+   > Ex) fix: 1234
   
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
@@ -62,7 +62,7 @@
 
 | | 김다은 | 김영진 | 박혜린 | 이유진 | 안태우 |
 | :---: | :---: | :---: | :---: | :---:| :---:|
-| Github |
+| Github | [KimDa99](https://github.com/KimDa99) | [youngjin0305](https://github.com/youngjin0305)
 | Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> |
 | Week 01</br>Array & List</br>Time Complexity | 
 | Week 02</br>Stack &</br>Queue | 
