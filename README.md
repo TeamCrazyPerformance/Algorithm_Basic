@@ -48,9 +48,9 @@
 ## 진행 상황(예시)
 |  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 | 김경환 |
 | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
-| GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) |
+| GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) | [rhrudska987](https://github.com/rhrudska987) | [Hyun-woogie](https://github.com/Hyun-woogie) | [AzureSoda](https://github.com/AzureSoda) | 
 | Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
-| Week 01</br>[Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>[Time Complexity](https://velog.io/@dooongpark/알고리즘-시간-복잡도-Time-Complexity) | 
+| Week 01</br>[Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>[Time Complexity](https://velog.io/@dooongpark/알고리즘-시간-복잡도-Time-Complexity) | ✅ | ✅ |✅ | ✅ | ❌ | :one: |
 | Week 02</br>[Stack &</br>Queue](https://velog.io/@blublue_02/Stack-Queue) | 
 | Week 03</br>Brute Force & </br>Binary Search |  
 | Week 04</br>Divide and</br>Conquer | 
@@ -62,9 +62,9 @@
 
 | | 김다은 | 김영진 | 박혜린 | 이유진 | 안태우 |
 | :---: | :---: | :---: | :---: | :---:| :---:|
-| Github | [KimDa99](https://github.com/KimDa99) | [youngjin0305](https://github.com/youngjin0305)
+| Github | [KimDa99](https://github.com/KimDa99) | [youngjin0305](https://github.com/youngjin0305) | [0HyerinPark](https://github.com/0HyerinPark)
 | Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> |
-| Week 01</br>Array & List</br>Time Complexity | 
+| Week 01</br>Array & List</br>Time Complexity | 5️⃣ | ✅ | 4️⃣ | ❌ | ❌ |
 | Week 02</br>Stack &</br>Queue | 
 | Week 03</br>Brute Force &</br>Binary Search |  
 | Week 04</br>Divide and</br>Conquer | 
@@ -78,7 +78,7 @@
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
 | 모든 문제 | ✅ |
-| 1~6문제 | 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣|
+| 1~6문제 | 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣|
 | 0문제 | ❌ <br/>(사유) |
 
 ## References
