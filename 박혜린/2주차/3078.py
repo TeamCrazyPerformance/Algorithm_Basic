@@ -1,3 +1,26 @@
+# import sys
+# from collections import deque
+# n, k = map(int, sys.stdin.readline().split())
+# queue = deque()
+# name_length = deque()
+# pairs = 0
+
+# for i in range(n):
+#   name = sys.stdin.readline().rstrip()  
+#   queue.append(name)
+#   name_length.append(len(name))
+
+# while len(queue) > 1:
+#   a = queue.popleft()
+#   name_length.popleft()
+#   for i in range(k):
+#     if len(queue) > i and len(a) == name_length[i] :
+#       pairs += 1
+#     else:
+#       continue
+    
+# print(pairs)
+
 import sys
 n, k = map(int, sys.stdin.readline().split())
 student = [0]*n # 등수별 이름 길이 
