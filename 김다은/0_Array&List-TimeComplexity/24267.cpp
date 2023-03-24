@@ -5,19 +5,21 @@ using namespace std;
 
 int main()
 {
-	int num;
+	long long num;
 	cin >> num;
 	
-	int many=0;
+	long long many = 0;
 	int power=3;
 	
-	//(N-2 - i)(N-1-i)/2 ( i )
-	
-	for (int i = 1; i <=num-3; i++ ){
-	    many += i *(num - 2 - i)*(num - 1 - i)/2;
-	}
-	
+	/*
+	if (num <= 2) { many = 0; power = 0; }
+	else many = (num - 2) * (num - 1) * num / 6; 	
+	*/
+
+	many = (num - 2) * (num - 1) * num / 6;
+
 	cout << many << endl;
 	cout << power;
 	
+	return 0;
 }
