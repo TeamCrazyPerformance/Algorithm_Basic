@@ -52,8 +52,8 @@
 | Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
 | Week 01</br>[Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>[Time Complexity](https://velog.io/@dooongpark/알고리즘-시간-복잡도-Time-Complexity) | ✅ | ✅ |✅ | ✅ | ❌ | :one: |
 | Week 02</br>[Stack &</br>Queue](https://velog.io/@blublue_02/Stack-Queue) | 
-| Week 03</br>Brute Force & </br>Binary Search |  
-| Week 04</br>Divide and</br>Conquer | 
+| Week 03</br>[Brute Force &](https://velog.io/@dooongpark/알고리즘-브루트-포스-완전-탐색) </br>[Binary Search](https://velog.io/@dooongpark/알고리즘-이분-탐색-이진-탐색) |  
+| Week 04</br>[Divide and</br>Conquer](https://velog.io/@blublue_02/분할-정복) | 
 | Week 05</br>Greedy | 
 | Week 06</br>DP |  
 | Week 07</br>Sort |  
