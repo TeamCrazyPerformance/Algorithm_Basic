@@ -3,22 +3,22 @@
 
 using namespace std;
 
-int req[10001];
-
-int bisearch(int n, int b)
+int tree[1000001];
+int bisearch(int n, int m)
 {
-    int st = 0, end = req[n-1], ans;
+    int st = 0, end = tree[n-1], ans=0;
     while(st<=end) {
-        int mid = (st+end)/2, sum = 0;
-        for(int i=0; i<n; i++) {
-            sum += (mid < req[i]) ? mid : req[i];
+        int mid = (st+end)/2;
+        long long sum = 0;
+        for(int i=n-1; i>=0; i--) {
+            if(tree[i]-mid <= 0) break;
+            sum += tree[i]-mid;
         }
-        if(sum < b) {
-            ans = mid;
+        if(sum >= m) {
+            ans = (mid > ans) ? mid : ans;
             st = mid+1;
         }
-        else if(sum > b) end = mid-1;
-        else return mid;
+        else end = mid-1;
     }
     return ans;
 }
@@ -28,14 +28,12 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int n, budget, sum=0;
-    cin >> n;
+    int n, m;
+    cin >> n >> m;
     for(int i=0; i<n; i++) {
-        cin >> req[i];
+        cin >> tree[i];
     }
-    cin >> budget;
+    sort(tree, tree+n);
 
-    sort(req, req+n);
-
-    cout << bisearch(n, budget);
+    cout << bisearch(n, m);
 }
