@@ -55,7 +55,7 @@
 | Week 03</br>[Brute Force &](https://velog.io/@dooongpark/알고리즘-브루트-포스-완전-탐색) </br>[Binary Search](https://velog.io/@dooongpark/알고리즘-이분-탐색-이진-탐색) |  
 | Week 04</br>[Divide and</br>Conquer](https://velog.io/@blublue_02/분할-정복) | 
 | Week 05</br>[Greedy](https://velog.io/@dooongpark/알고리즘-그리디-알고리즘-Greedy) | 
-| Week 06</br>DP |  
+| Week 06</br>[DP](https://velog.io/@blublue_02/DPDynamic-Programming) |  
 | Week 07</br>Sort |  
 | Week 08</br>DFS | 
 | Week 09</br>BFS | 
