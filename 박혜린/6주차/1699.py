@@ -1,8 +1,11 @@
-N = int(input())
-cnt = 0
-
-while N != 0 :
-  cnt += 1
-  N -= int(N ** 0.5) ** 2
-
-print(cnt)
+n = int(input())
+dp = [0 for i in range(n + 1)]
+square = [i * i for i in range(1, 317)]
+for i in range(1, n + 1):
+    s = []
+    for j in square:
+        if j > i:
+            break
+        s.append(dp[i - j])
+    dp[i] = min(s) + 1
+print(dp[n])
