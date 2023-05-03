@@ -56,9 +56,9 @@
 | Week 04</br>[Divide and</br>Conquer](https://velog.io/@blublue_02/분할-정복) | 
 | Week 05</br>[Greedy](https://velog.io/@dooongpark/알고리즘-그리디-알고리즘-Greedy) | 
 | Week 06</br>[DP](https://velog.io/@blublue_02/DPDynamic-Programming) |  
-| Week 07</br>Sort |  
-| Week 08</br>DFS | 
-| Week 09</br>BFS | 
+| Week 07</br>[DFS](https://velog.io/@dooongpark/알고리즘-깊이우선탐색-DFS과-백트래킹) |  
+| Week 08</br>BFS | 
+| Week 09</br>Sort | 
 
 | | 김다은 | 김영진 | 박혜린 | 이유진 | 안태우 |
 | :---: | :---: | :---: | :---: | :---:| :---:|
