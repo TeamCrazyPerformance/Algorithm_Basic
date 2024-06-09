@@ -45,41 +45,51 @@
   
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
-## 진행 상황(예시)
-|  | 최승훈 | 박동혁 | 고경남 | 권현욱 | 김경준 | 김경환 |
-| :---: | :---: | :---: | :---: | :---: | :---:| :---: |
-| GitHub | [cshooon](https://github.com/cshooon) | [Doongpark](https://github.com/Doongpark) | [rhrudska987](https://github.com/rhrudska987) | [Hyun-woogie](https://github.com/Hyun-woogie) | [AzureSoda](https://github.com/AzureSoda) | 
-| Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
-| Week 01</br>[Array & List](https://velog.io/@blublue_02/ArrayvsList)</br>[Time Complexity](https://velog.io/@dooongpark/알고리즘-시간-복잡도-Time-Complexity) | ✅ | ✅ |✅ | ✅ | ❌ | :one: |
-| Week 02</br>[Stack &</br>Queue](https://velog.io/@blublue_02/Stack-Queue) | 
-| Week 03</br>[Brute Force &](https://velog.io/@dooongpark/알고리즘-브루트-포스-완전-탐색) </br>[Binary Search](https://velog.io/@dooongpark/알고리즘-이분-탐색-이진-탐색) |  
-| Week 04</br>[Divide and</br>Conquer](https://velog.io/@blublue_02/분할-정복) | 
-| Week 05</br>[Greedy](https://velog.io/@dooongpark/알고리즘-그리디-알고리즘-Greedy) | 
-| Week 06</br>[DP](https://velog.io/@blublue_02/DPDynamic-Programming) |  
-| Week 07</br>[DFS](https://velog.io/@dooongpark/알고리즘-깊이우선탐색-DFS과-백트래킹) |  
-| Week 08</br>[BFS](https://velog.io/@blublue_02/BFS%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89) | 
-| Week 09</br>Sort | 
+### 참가자
 
-| | 김다은 | 김영진 | 박혜린 | 이유진 | 안태우 |
-| :---: | :---: | :---: | :---: | :---:| :---:|
-| Github | [KimDa99](https://github.com/KimDa99) | [youngjin0305](https://github.com/youngjin0305) | [0HyerinPark](https://github.com/0HyerinPark)
-| Language | <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> |
-| Week 01</br>Array & List</br>Time Complexity | 5️⃣ | ✅ | 4️⃣ | ❌ | ❌ |
-| Week 02</br>Stack &</br>Queue | 
-| Week 03</br>Brute Force &</br>Binary Search |  
-| Week 04</br>Divide and</br>Conquer | 
-| Week 05</br>Greedy | 
-| Week 06</br>DP |  
-| Week 07</br>Sort |  
-| Week 08</br>DFS | 
-| Week 09</br>BFS | 
+| 참가자 | GitHub 링크 |
+|--------|-------------|
+| 최승훈 | [GitHub](https://github.com/cshooon) |
+| 박동혁 | [GitHub](https://github.com/Doongpark) |
+| 고경남 | [GitHub](https://github.com/rhrudska987) |
+| 권현욱 | [GitHub](https://github.com/Hyun-woogie) |
+| 김경환 | [GitHub](https://github.com/kkh041124) |
+| 김다은 | [GitHub](https://github.com/KimDa99) |
+| 김영진 | [GitHub](https://github.com/youngjin0305) |
+| 박혜린 | [GitHub](https://github.com/0HyerinPark) |
 
 
-| 업로드 횟수 | 표기 |
-| :---: | :---: |
-| 모든 문제 | ✅ |
-| 1~6문제 | 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣|
-| 0문제 | ❌ <br/>(사유) |
+#### 진행 상황
+
+알고리즘 주제에 따라 개념 공부와 문제 풀이를 완료하였습니다.
+
+1. **Week 01** - Array & List, Time Complexity
+   - 학습 자료: [Array vs List](https://velog.io/@blublue_02/ArrayvsList), [Time Complexity](https://velog.io/@dooongpark/알고리즘-시간-복잡도-Time-Complexity)
+
+2. **Week 02** - Stack & Queue
+   - 학습 자료: [Stack & Queue](https://velog.io/@blublue_02/Stack-Queue)
+
+3. **Week 03** - Brute Force & Binary Search
+   - 학습 자료: [Brute Force & Binary Search](https://velog.io/@dooongpark/알고리즘-브루트-포스-완전-탐색)
+
+4. **Week 04** - Divide and Conquer
+   - 학습 자료: [Divide and Conquer](https://velog.io/@blublue_02/분할-정복)
+
+5. **Week 05** - Greedy
+   - 학습 자료: [Greedy](https://velog.io/@dooongpark/알고리즘-그리디-알고리즘-Greedy)
+
+6. **Week 06** - Dynamic Programming (DP)
+   - 학습 자료: [DP (Dynamic Programming)](https://velog.io/@blublue_02/DPDynamic-Programming)
+
+7. **Week 07** - Sorting
+   - 학습 자료: [Sort](https://velog.io/@dooongpark/알고리즘-정렬-알고리즘-Sorting)
+
+8. **Week 08** - Depth First Search (DFS)
+   - 학습 자료: [DFS](https://velog.io/@dooongpark/알고리즘-깊이우선탐색-DFS과-백트래킹)
+
+9. **Week 09** - Breadth First Search (BFS)
+   - 학습 자료: [BFS (너비 우선 탐색)](https://velog.io/@blublue_02/BFS%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89)
+
 
 ## References
 * https://github.com/b1urrrr/Algorithm-Study
